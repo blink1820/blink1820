@@ -31,7 +31,7 @@ Github를 시작하게 된 것도 개발자의 길을 한 발 딛으며 시작�
 
 ---
 ## 3. :bar_chart: GitHub Stats
-[![namjugood's GitHub stats](https://github-readme-stats.vercel.app/api?username=namjugood&show_icons=true&theme=merko)](https://github.com/namjugood/)
+[![blink1820's GitHub stats](https://github-readme-stats.vercel.app/api?username=blink1820&show_icons=true&theme=merko)](https://github.com/blink1820/)
 
 ---
 ## 4. 📫 링크
