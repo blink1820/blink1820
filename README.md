@@ -36,7 +36,7 @@ Github를 시작하게 된 것도 개발자의 길을 한 발 딛으며 시작�
 ---
 ## 4. 📫 링크
 
-square&logo=Naver&logoColor=white&link=mailto:blink1821@naver.com)](mailto:blink1821@naver.com) &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blinkblink1820@gmail.com)](mailto:blinkblink1820@gmail.com)
+&nbsp;[![Navermail Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:blink1821@naver.com)](mailto:blink1821@naver.com) &nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blinkblink1820@gmail.com)](mailto:blinkblink1820@gmail.com)
 ---
 ## 5. 저장소 상태
 
